@@ -1,6 +1,8 @@
 # zspotifycolab
 A Spotify downloader needing only a python interpreter and ffmpeg.
 
+Forked from [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify)
+
 #### Just hit the button below and get going:
 <a href="https://colab.research.google.com/github/Ori5000/zspotifycolab/blob/main/zspotify.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
