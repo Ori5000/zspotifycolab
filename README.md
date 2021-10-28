@@ -21,6 +21,4 @@ This option is much slower and is only recommended for premium users who wish to
 If you see this, don't worry! Just try logging back in. If you see the incorrect username or password error, reset your password and you should be able to log back in and continue using Spotify.
 
 ### Options
-**playlist** - Downloads a saved playlist from your account
-
 **likedSongs** - Downloads all the liked songs from your account
