@@ -1,0 +1,12 @@
+{
+    "ROOT_PATH": "/content/Downloads/Music/",
+    "ROOT_PODCAST_PATH": "/content/Downloads/Podcasts/",
+    "SKIP_EXISTING_FILES": true,
+    "DOWNLOAD_FORMAT": "ogg",
+    "FORCE_PREMIUM": false,
+    "ANTI_BAN_WAIT_TIME": 1,
+    "OVERRIDE_AUTO_WAIT": false,
+    "CHUNK_SIZE": 50000,
+    "SPLIT_ALBUM_DISCS": false,
+    "DOWNLOAD_REAL_TIME": false
+}
