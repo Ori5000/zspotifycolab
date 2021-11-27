@@ -6,6 +6,8 @@ Forked from [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify)
 #### Just hit the button below and get going:
 <a href="https://colab.research.google.com/github/Ori5000/zspotifycolab/blob/main/zspotify.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+Shout out to [Catwaii](https://github.com/Catwaii) for giving me smart ideas for this repo!
+
 ### Will my account get banned if I use this tool?
 
 **There have been 2-3 reports from users who received account bans from Spotify for using this tool**.
