@@ -1,6 +1,6 @@
 {
-    "ROOT_PATH": "ZSpotify Music/",
-    "ROOT_PODCAST_PATH": "ZSpotify Podcasts/",
+    "ROOT_PATH": "/content/drive/MyDrive/ZSpotify Music/",
+    "ROOT_PODCAST_PATH": "/content/drive/MyDrive/ZSpotify Podcasts/",
     "SKIP_EXISTING_FILES": true,
     "MUSIC_FORMAT": "ogg",
     "RAW_AUDIO_AS_IS": true,
