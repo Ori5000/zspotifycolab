@@ -1,12 +1,12 @@
 {
     "ROOT_PATH": "/content/drive/MyDrive/ZSpotify Music/",
     "ROOT_PODCAST_PATH": "/content/drive/MyDrive/ZSpotify Podcasts/",
-    "SKIP_EXISTING_FILES": true,
+    "SKIP_EXISTING_FILES": "true",
     "MUSIC_FORMAT": "ogg",
-    "RAW_AUDIO_AS_IS": true,
-    "FORCE_PREMIUM": false,
+    "RAW_AUDIO_AS_IS": "true",
+    "FORCE_PREMIUM": "false",
     "ANTI_BAN_WAIT_TIME": 1,
-    "OVERRIDE_AUTO_WAIT": false,
+    "OVERRIDE_AUTO_WAIT": "false",
     "CHUNK_SIZE": 50000,
-    "SPLIT_ALBUM_DISCS": false
+    "SPLIT_ALBUM_DISCS": "false"
 }
